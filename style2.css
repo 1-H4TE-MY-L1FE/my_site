@@ -1,0 +1,45 @@
+body {
+    background-image: url("img/fon.jpg");
+    background-size: 100%;
+}
+.t {
+    width: 800px;
+    height: 600px;
+    border: 10px solid rgb(255, 230, 0);
+    margin: 150px auto;
+    position: relative;
+    background-image: url("img/Fon2.jpg");
+
+}
+.s {
+    width: 250px;
+    height: 527px;
+    background-image: url("img/1.jpg");
+    position: absolute;
+    left: 10px;
+    top: auto;
+}
+
+.c {
+    width: 250px;
+    height: 527px;
+    background-image: url("img/2.jpg");
+    position: absolute;
+    left: 540px;
+    top: auto;
+}
+
+.v {
+    width: 250px;
+    height: 527px;
+    background-image: url("img/3.jpg");
+    position: absolute;
+    left: 276px;
+    top: auto;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 238, 0);
+    font-size: 25px;
+}
